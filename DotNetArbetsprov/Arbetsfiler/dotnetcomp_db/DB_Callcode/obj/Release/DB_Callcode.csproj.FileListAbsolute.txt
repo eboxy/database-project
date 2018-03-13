@@ -1,0 +1,11 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\DB_Callcode.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\DB_Callcode.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\Common_Tasks.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\DB_proc.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\DB_proc.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\bin\Release\Common_Tasks.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\obj\Release\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\obj\Release\DB_Callcode.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_Callcode\obj\Release\DB_Callcode.pdb

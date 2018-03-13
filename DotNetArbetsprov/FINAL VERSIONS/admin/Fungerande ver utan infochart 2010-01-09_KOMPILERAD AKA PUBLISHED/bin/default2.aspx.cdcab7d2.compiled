@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/Default2.aspx" hash="fffffffbd6155223" filehash="fbc6607e339504e7" flags="110000" assembly="App_Web_tduzwapq" type="ASP.default2_aspx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/Default2.aspx" />
+        <filedep name="/dotnetcomp_db/Default2.aspx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_grdResult_Artist.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_grdResult_Artist.ascx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister_Artist.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister_Artist.ascx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kortbio.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kortbio.ascx.cs" />
+    </filedeps>
+</preserve>

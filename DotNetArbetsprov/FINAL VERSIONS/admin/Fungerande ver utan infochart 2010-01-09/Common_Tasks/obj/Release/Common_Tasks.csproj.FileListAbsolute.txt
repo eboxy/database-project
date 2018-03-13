@@ -1,0 +1,9 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\Common_Tasks.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\Common_Tasks.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\DB_proc.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\DB_proc.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\bin\Release\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\obj\Release\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\obj\Release\Common_Tasks.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks\obj\Release\Common_Tasks.pdb

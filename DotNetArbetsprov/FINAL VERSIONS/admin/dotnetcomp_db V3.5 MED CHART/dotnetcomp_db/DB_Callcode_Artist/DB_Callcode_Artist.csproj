@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0551BF9-F15E-4ADB-A012-46BEC0CA6B4C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DB_Callcode_Artist</RootNamespace>
+    <AssemblyName>DB_Callcode_Artist</AssemblyName>
+    <TargetFrameworkVersion>v3.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Artist\Borja_om.cs" />
+    <Compile Include="Artist\chk_Gridviews.cs" />
+    <Compile Include="Artist\dbtn_KomArt.cs" />
+    <Compile Include="Artist\dbtn_Kortbio_Input.cs" />
+    <Compile Include="Artist\dbtn_Kortbio_Output.cs" />
+    <Compile Include="Artist\dbtn_Visa_Kortbio.cs" />
+    <Compile Include="Artist\Fetch.cs" />
+    <Compile Include="Artist\hchk_grdResult.cs" />
+    <Compile Include="Artist\hchk_gridArtister.cs" />
+    <Compile Include="Artist\Lagg_till.cs" />
+    <Compile Include="Artist\Refresh_TB.cs" />
+    <Compile Include="Artist\Sok.cs" />
+    <Compile Include="Artist\Ta_bort.cs" />
+    <Compile Include="Artist\Uppdatera.cs" />
+    <Compile Include="Artist\Visa_databas.cs" />
+    <Compile Include="Artist\Visa_KortBioPanel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common_Tasks_Artist\Common_Tasks_Artist.csproj">
+      <Project>{D2708A92-0C3C-4D7A-A5BB-44CD9DDF9C68}</Project>
+      <Name>Common_Tasks_Artist</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CtrlLib\CtrlLib.csproj">
+      <Project>{B1BB0DF2-55E9-4E38-B154-ECE30A0AF616}</Project>
+      <Name>CtrlLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DB_proc_Artist\DB_proc_Artist.csproj">
+      <Project>{01B6339A-B811-443C-AE88-AE79ADC6DAB7}</Project>
+      <Name>DB_proc_Artist</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

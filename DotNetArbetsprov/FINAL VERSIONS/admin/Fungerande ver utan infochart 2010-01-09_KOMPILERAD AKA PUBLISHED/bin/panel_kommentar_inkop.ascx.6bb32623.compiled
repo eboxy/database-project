@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/UserControls/Panel_Kommentar_Inkop.ascx" hash="fffffffbd6155223" filehash="263577d742fbfdf7" flags="110000" assembly="App_Web_uchmqwvn" type="ASP.usercontrols_panel_kommentar_inkop_ascx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kommentar_Inkop.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kommentar_Inkop.ascx.cs" />
+    </filedeps>
+</preserve>

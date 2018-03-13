@@ -1,0 +1,3 @@
+Den här applikationen var utvecklad under följande sökväg:
+
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db

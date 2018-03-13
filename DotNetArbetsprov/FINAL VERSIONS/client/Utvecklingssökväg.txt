@@ -1,0 +1,4 @@
+Den här databasen är utvecklad under följande sökväg:
+
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\
+

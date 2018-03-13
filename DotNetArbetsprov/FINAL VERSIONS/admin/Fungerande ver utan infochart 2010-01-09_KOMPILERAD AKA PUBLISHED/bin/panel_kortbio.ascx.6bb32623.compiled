@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/UserControls/Panel_Kortbio.ascx" hash="fffffffbd6155223" filehash="ea932cacae1e9225" flags="110000" assembly="App_Web_uchmqwvn" type="ASP.usercontrols_panel_kortbio_ascx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kortbio.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kortbio.ascx.cs" />
+    </filedeps>
+</preserve>

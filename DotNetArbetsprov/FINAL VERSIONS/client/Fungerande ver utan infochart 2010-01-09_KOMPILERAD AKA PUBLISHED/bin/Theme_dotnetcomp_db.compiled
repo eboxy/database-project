@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db_KLIENT/App_Themes/dotnetcomp_db/" hash="fffffff8d637e96f" filehash="ea8e27b2e2240879" flags="110000" assembly="App_Theme_dotnetcomp_db" type="ASP.dotnetcomp_db">
+    <filedeps>
+        <filedep name="/dotnetcomp_db_KLIENT/App_Themes/dotnetcomp_db/" />
+    </filedeps>
+</preserve>

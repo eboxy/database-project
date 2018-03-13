@@ -1,0 +1,9 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\Common_Tasks_Inkop.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\Common_Tasks_Inkop.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\DB_proc_Inkop.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\DB_proc_Inkop.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\bin\Release\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\obj\Release\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\obj\Release\Common_Tasks_Inkop.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Inkop\obj\Release\Common_Tasks_Inkop.pdb

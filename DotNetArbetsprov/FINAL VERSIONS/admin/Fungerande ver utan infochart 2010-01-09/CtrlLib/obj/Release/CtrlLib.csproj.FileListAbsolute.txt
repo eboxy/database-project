@@ -1,0 +1,5 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\CtrlLib\bin\Release\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\CtrlLib\bin\Release\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\CtrlLib\obj\Release\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\CtrlLib\obj\Release\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\CtrlLib\obj\Release\CtrlLib.pdb

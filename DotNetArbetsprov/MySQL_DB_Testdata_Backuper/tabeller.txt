@@ -1,0 +1,51 @@
+fält i artisttabellen (8st liksom för skiv(cd)-tabell)  artist_net  :
+
+
+Field     Type           Collation          Null    Key     Default  Extra           Privileges                       Comment
+--------  -------------  -----------------  ------  ------  -------  --------------  -------------------------------  -------
+No        int(6)         (NULL)             NO      PRI     (NULL)   auto_increment  select,insert,update,references         
+ValArt    tinyint(1)     (NULL)             NO              0                        select,insert,update,references         
+Artist    varchar(50)    latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+VPfr      varchar(4)     latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+VPtill    varchar(10)    latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Ursland   varchar(5)     latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Ursstad   varchar(50)    latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Musiktyp  varchar(50)    latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Kortbio   varchar(6000)  latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+Fält i skivtabell (8 st)  cd_net  :
+
+Field      Type             Collation          Null    Key     Default     Extra           Privileges                       Comment
+---------  ---------------  -----------------  ------  ------  ----------  --------------  -------------------------------  -------
+#          int(6) unsigned  (NULL)             NO      PRI     (NULL)      auto_increment  select,insert,update,references         
+Val        tinyint(1)       (NULL)             NO              0                           select,insert,update,references         
+Artist_no  int(6)           (NULL)             NO      MUL     (NULL)                      select,insert,update,references         
+Album      varchar(80)      latin1_swedish_ci  NO              (NULL)                      select,insert,update,references         
+Format     varchar(15)      latin1_swedish_ci  NO              (NULL)                      select,insert,update,references         
+Press      varchar(5)       latin1_swedish_ci  NO              (NULL)                      select,insert,update,references         
+Ar         varchar(4)       latin1_swedish_ci  NO              (NULL)                      select,insert,update,references         
+Kommentar  varchar(1000)    latin1_swedish_ci  NO              No Comment                  select,insert,update,references     
+
+------------------------------------------------------------------------------------------------------------------------
+
+Fälkt i inkoptabell (12 st) inkop_net :
+
+
+Field     Type             Collation          Null    Key     Default  Extra           Privileges                       Comment
+--------  ---------------  -----------------  ------  ------  -------  --------------  -------------------------------  -------
+Skiv_no   int(6) unsigned  (NULL)             NO      PRI     (NULL)   auto_increment  select,insert,update,references         
+ValInk    tinyint(1)       (NULL)             NO              0                        select,insert,update,references         
+Art_no    int(6)           (NULL)             NO      MUL     (NULL)                   select,insert,update,references         
+Titel     varchar(80)      latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Form      varchar(15)      latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Land      varchar(5)       latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Utg       varchar(4)       latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Komt      varchar(1000)    latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Inm_dat   varchar(10)      latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Kop_grad  varchar(1)       latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Kop_kat   varchar(10)      latin1_swedish_ci  NO              (NULL)                   select,insert,update,references         
+Ca_pris   varchar(4)       latin1_swedish_ci  NO              (NULL)                   select,insert,update,references    

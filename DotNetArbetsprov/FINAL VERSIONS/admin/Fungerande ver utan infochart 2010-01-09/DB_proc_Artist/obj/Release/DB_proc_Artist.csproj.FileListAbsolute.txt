@@ -1,0 +1,5 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_proc_Artist\bin\Release\DB_proc_Artist.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_proc_Artist\bin\Release\DB_proc_Artist.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_proc_Artist\obj\Release\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_proc_Artist\obj\Release\DB_proc_Artist.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\DB_proc_Artist\obj\Release\DB_proc_Artist.pdb

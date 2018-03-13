@@ -1,0 +1,10 @@
+E:\Webbutv_arbetsyta\Projekt\$safeprojectname$\CtrlLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\$safeprojectname$\CtrlLib\bin\Debug\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\$safeprojectname$\CtrlLib\bin\Debug\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\$safeprojectname$\CtrlLib\obj\Debug\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\$safeprojectname$\CtrlLib\obj\Debug\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\CtrlLib\bin\Debug\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\CtrlLib\bin\Debug\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\CtrlLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\CtrlLib\obj\Debug\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db_KLIENT\CtrlLib\obj\Debug\CtrlLib.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/Default.aspx" hash="fffffffbd6155223" filehash="2cf32791e86d342a" flags="110000" assembly="App_Web_tduzwapq" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/Default.aspx" />
+        <filedep name="/dotnetcomp_db/Default.aspx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/grd_Artistdata.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/grd_Artistdata.ascx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_grdResult.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_grdResult.ascx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister.ascx.cs" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kommentar.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Panel_Kommentar.ascx.cs" />
+    </filedeps>
+</preserve>

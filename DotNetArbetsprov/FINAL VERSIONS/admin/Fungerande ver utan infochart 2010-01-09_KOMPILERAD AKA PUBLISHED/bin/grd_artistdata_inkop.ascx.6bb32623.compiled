@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/UserControls/grd_Artistdata_Inkop.ascx" hash="fffffffbd6155223" filehash="5c944e41e6e8bac4" flags="110000" assembly="App_Web_uchmqwvn" type="ASP.usercontrols_grd_artistdata_inkop_ascx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/UserControls/grd_Artistdata_Inkop.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/grd_Artistdata_Inkop.ascx.cs" />
+    </filedeps>
+</preserve>

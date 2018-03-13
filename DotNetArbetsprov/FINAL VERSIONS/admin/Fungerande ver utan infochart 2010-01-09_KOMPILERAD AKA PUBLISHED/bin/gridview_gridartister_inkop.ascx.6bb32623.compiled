@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db/UserControls/Gridview_gridArtister_Inkop.ascx" hash="fffffffbd6155223" filehash="1d91834a820c67d0" flags="110000" assembly="App_Web_uchmqwvn" type="ASP.usercontrols_gridview_gridartister_inkop_ascx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister_Inkop.ascx" />
+        <filedep name="/dotnetcomp_db/UserControls/Gridview_gridArtister_Inkop.ascx.cs" />
+    </filedeps>
+</preserve>

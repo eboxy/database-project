@@ -1,0 +1,9 @@
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\obj\Debug\ResolveAssemblyReference.cache
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\Common_Tasks_Artist.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\Common_Tasks_Artist.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\CtrlLib.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\CtrlLib.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\obj\Debug\Common_Tasks_Artist.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\obj\Debug\Common_Tasks_Artist.pdb
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\DB_proc_Artist.dll
+E:\Webbutv_arbetsyta\Projekt\dotnetcomp_db\Common_Tasks_Artist\bin\Debug\DB_proc_Artist.pdb

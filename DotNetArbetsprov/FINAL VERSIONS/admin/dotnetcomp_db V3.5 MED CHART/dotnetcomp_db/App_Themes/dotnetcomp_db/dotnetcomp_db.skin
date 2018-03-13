@@ -1,0 +1,26 @@
+﻿
+<asp:GridView runat="server" BackColor="White" 
+ BorderColor="#E7E7FF" BorderStyle="None" BorderWidth="1px"
+GridLines="Horizontal" Visible="false" 
+AutoGenerateColumns="false" Font-Size="1em">
+ 
+  <HeaderStyle BackColor="#990033" Font-Bold="True" Font-Size="1.45em" ForeColor="#F7F7F7" 
+  Font-Names="Garamond, Times New Roman, Georgia, Serif" />
+ <RowStyle BackColor="#F7F7F7" ForeColor="#4A3C8C" />
+ <FooterStyle BackColor="#B5C7DE" ForeColor="#4A3C8C" />
+ <PagerStyle BackColor="#990033" ForeColor="#F7F7F7" HorizontalAlign="Right" Font-Size="1em" />
+ 
+                                   
+</asp:GridView>
+ 
+
+
+<asp:label runat="server" Font-Bold="True" Font-Size="1.5em" />
+ 
+
+ 
+
+
+ 
+ 
+ 

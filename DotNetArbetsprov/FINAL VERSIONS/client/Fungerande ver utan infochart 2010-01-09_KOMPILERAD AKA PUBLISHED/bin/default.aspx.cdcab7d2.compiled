@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/dotnetcomp_db_KLIENT/Default.aspx" hash="fffffff8d637e96f" filehash="245d32b4cea5dbe0" flags="110000" assembly="App_Web_hdldzzne" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/dotnetcomp_db_KLIENT/Default.aspx" />
+        <filedep name="/dotnetcomp_db_KLIENT/Default.aspx.cs" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/grd_Artistdata.ascx" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/grd_Artistdata.ascx.cs" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/Gridview_grdResult.ascx" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/Gridview_grdResult.ascx.cs" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/Gridview_gridArtister.ascx" />
+        <filedep name="/dotnetcomp_db_KLIENT/UserControls/Gridview_gridArtister.ascx.cs" />
+    </filedeps>
+</preserve>
